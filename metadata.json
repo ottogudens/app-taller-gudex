@@ -1,0 +1,7 @@
+{
+  "name": "Taller Pro - Gestión Automotriz",
+  "description": "A comprehensive Automotive Workshop Management System designed to streamline operations, enhance client communication, and provide a modern digital experience for vehicle maintenance tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
